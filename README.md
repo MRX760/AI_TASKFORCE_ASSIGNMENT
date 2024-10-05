@@ -6,6 +6,7 @@ Only for recruitment process
 - added SAM2 (segment anything model 2) for segmenting object and removing background based on segment mask. Library used ultralytics
 
 - URL for stream (expired after 72 hours): https://4d66f36da68c6f94c6.gradio.live/
+
 ![Comparison Image](https://raw.githubusercontent.com/MRX760/AI_TASKFORCE_ASSIGNMENT/refs/heads/main/comparison.png)
 
 Note: I sit for 12 hours working on this code and trying to integrate 2 advanced model but failed. Those model are finegrain and GroundingDino+SAM (both for interactive prompt input). 
