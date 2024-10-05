@@ -13,7 +13,7 @@ Note: I sit for 12 hours working on this code and trying to integrate 2 advanced
 
 - Finegrain link: https://huggingface.co/finegrain/finegrain-box-segmenter
 
-- GroundingDINO + SAM link:https://github.com/IDEA-Research/Grounded-Segment-Anything
+- GroundingDINO + SAM link: https://github.com/IDEA-Research/Grounded-Segment-Anything
 
 Failed integration are due to unavailable API and huge model size.
 
