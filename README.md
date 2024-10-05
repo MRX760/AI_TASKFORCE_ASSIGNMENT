@@ -18,5 +18,5 @@ Failed integration are due to unavailable API and huge model size.
 
 
 If you encounter any issue, don't hesitate to contact me at:
-Email: sultanahmadalfath777@gmail.com
-LinkedIn: https://www.linkedin.com/in/sultan-ahmad-alfath 
+- Email: sultanahmadalfath777@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sultan-ahmad-alfath 
