@@ -5,7 +5,7 @@ Only for recruitment process
 - watermark is already there, just modify a few condition statement
 - added SAM2 (segment anything model 2) for segmenting object and removing background based on segment mask. Library used ultralytics
 
-- URL for stream (expired after 72 hours): https://4d66f36da68c6f94c6.gradio.live/
+- URL for stream (expired after 72 hours): Ask me for the link through my contact below
 
 ![Comparison Image](https://raw.githubusercontent.com/MRX760/AI_TASKFORCE_ASSIGNMENT/refs/heads/main/comparison.png)
 
